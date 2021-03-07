@@ -1,6 +1,11 @@
 public void main(){
+<<<<<<< HEAD
 int y = 3;
   System.print.out("Hello World",y);
+=======
+int ya = 4;
+  System.print.out("Hello World",ya);
+>>>>>>> main
 }
 
 //comment
