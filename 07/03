@@ -1,4 +1,4 @@
 public void main(){
-int x = 2;
-  System.print.out("Hello World",x);
+int y = 2;
+  System.print.out("Hello World",y);
 }
