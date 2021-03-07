@@ -1,5 +1,5 @@
 public void main(){
-int y = 2;
+int y = 3;
   System.print.out("Hello World",y);
 }
 
