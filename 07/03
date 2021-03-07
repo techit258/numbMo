@@ -1,0 +1,3 @@
+public void main(){
+  System.print.out("Hello World");
+}
